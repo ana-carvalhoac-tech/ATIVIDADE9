@@ -73,7 +73,7 @@ if (nota >= 90 && nota <= 100) {
 
 console.log("\nPar ou ímpar ---");
 
-const numeroInteiro = Number(prompt("Parte 5.3 — Digite um número inteiro:"));
+const numeroInteiro = Number(prompt("Digite um número inteiro:"));
 
 if (Number.isInteger(numeroInteiro)) {
   if (numeroInteiro % 2 === 0) {
