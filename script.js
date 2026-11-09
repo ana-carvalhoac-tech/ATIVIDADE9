@@ -118,4 +118,4 @@ if (media >= 70) {
   situacao = "Reprovado";
 }
 
-console.log(`Aluno: ${nome} | Média: ${media} | Situação: ${situacao}`);
+console.log(`Aluno: ${nome} | Média: ${media} | Situação: ${situacao}`); 
